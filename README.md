@@ -12,7 +12,7 @@ a
   + Implemented its health and destruction functions
 * Added A Health Box
   + Increases health when you walk across it
-  + Created 3-D model for the box
+  + Created 3D model for the box
 * Added Ammo pick up
   + Inreases ammo count when you walk across it
 *  Added a Boss character
