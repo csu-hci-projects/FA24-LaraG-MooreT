@@ -28,7 +28,11 @@ a
     + Boss spawns after all targets destroyed
     + Ends game
 * Updated projectile to damage player
-    + Bullests shot by both players and Boss damage player if the collide 
+    + Bullests shot by both players and Boss damage player if the collide
+* Implemented Some UI
+    + The health, ammo, and targets hit count
+    + The Death screen UI
+    + The pause menu UI
 ### Tyler Moore
 
 ## References
