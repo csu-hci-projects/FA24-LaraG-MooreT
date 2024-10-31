@@ -19,8 +19,11 @@ a
     + This boss charater has an AI with tree
       +  The boss has health and a gun that shoots the player
       +  The bosses AI looks at the player and periodically shoots
+      +  Boss animations
     + Added a spawner that can spawn a boss based on targets shot count
 * Added a light switch 🥳
+* Added a falling spike
+      + Spike falls on player when walking unde it
 * Created the third level
     + Has 3 hidden targets you have to destroy
     + Has ammo and health pick ups
@@ -33,6 +36,9 @@ a
     + The health, ammo, and targets hit count
     + The Death screen UI
     + The pause menu UI
+* Added custom sounds
+    + Spike fall hittinf player sound
+    + Main menu music made by me
 ### Tyler Moore
 
 ## References
