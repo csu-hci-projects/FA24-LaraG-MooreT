@@ -39,6 +39,7 @@ a
 * Added custom sounds
     + Spike fall hittinf player sound
     + Main menu music made by me
+    + Custome end game song also made by me
 ### Tyler Moore
 
 ## References
