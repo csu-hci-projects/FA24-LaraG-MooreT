@@ -37,7 +37,7 @@ a
     + The Death screen UI
     + The pause menu UI
 * Added custom sounds
-    + Spike fall hittinf player sound
+    + Spike fall hit player sound
     + Main menu music made by me
     + Custome end game song also made by me
 ### Tyler Moore
