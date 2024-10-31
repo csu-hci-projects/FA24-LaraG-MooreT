@@ -55,5 +55,6 @@ For Enemy AI: [Video Reference](https://www.youtube.com/watch?v=DQqhJCoC4bQ&t=61
 2. 10/21 Virtual call meeting to create a general plan, outline of overall project and devide work evenlly
 3. 10/25 Virtual meeting to give eachother a progress update
 4. 10/26 With extended timeline we expanded the feature we were planning to add
-5. 10/31 Meet to finalize project and record videos
-6. Many message updates throughout the weeks
+5. 10/28 Another progress update and group development
+6. 10/31 Meet to finalize project and record videos
+7. Many message updates throughout the weeks
