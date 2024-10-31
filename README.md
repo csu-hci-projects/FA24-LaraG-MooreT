@@ -49,3 +49,11 @@ a
 ## References
 For Enemy AI: [Video Reference](https://www.youtube.com/watch?v=DQqhJCoC4bQ&t=610s&ab_channel=RyanLale)  
 3D Models Animations: [Website](https://www.mixamo.com/#/?limit=48&page=1&query=idle&type=Motion%2CMotionPack)
+
+## Meetings
+1. 10/7 Face to face meeting where we introduced ourselves and exchanged contacts and Git IDs
+2. 10/21 Virtual call meeting to create a general plan, outline of overall project and devide work evenlly
+3. 10/25 Virtual meeting to give eachother a progress update
+4. 10/26 With extended timeline we expanded the feature we were planning to add
+5. 10/31 Meet to finalize project and record videos
+6. Many message updates throughout the weeks
