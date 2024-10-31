@@ -1,5 +1,8 @@
 # FA24-LaraG-MooreT
 # HW1 
+### Yotube Videos
+[Showcase](link)
+[Longer Explinatiom](Link)
 ## Team Members
 Gary Lara and Tyler Moore 
 ## How Application Works
@@ -22,6 +25,7 @@ a
       +  Boss animations
     + Added a spawner that can spawn a boss based on targets shot count
 * Added a light switch 🥳
+* Spider decour
 * Added a falling spike
       + Spike falls on player when walking unde it
 * Created the third level
@@ -44,4 +48,4 @@ a
 
 ## References
 For Enemy AI: [Video Reference](https://www.youtube.com/watch?v=DQqhJCoC4bQ&t=610s&ab_channel=RyanLale)  
-3-d Models Animations: [Website](https://www.mixamo.com/#/?limit=48&page=1&query=idle&type=Motion%2CMotionPack)
+3D Models Animations: [Website](https://www.mixamo.com/#/?limit=48&page=1&query=idle&type=Motion%2CMotionPack)
