@@ -33,4 +33,4 @@ a
 
 ## References
 For Enemy AI: [Video Reference](https://www.youtube.com/watch?v=DQqhJCoC4bQ&t=610s&ab_channel=RyanLale)  
-3-d Models: 
+3-d Models Animations: [Website](https://www.mixamo.com/#/?limit=48&page=1&query=idle&type=Motion%2CMotionPack)
