@@ -1,6 +1,6 @@
 # FA24-LaraG-MooreT
 # HW1 
-### Yotube Videos
+### Youtube Videos
 [Showcase](https://youtu.be/E7RbcvUwXnI)
 [Longer Explinatiom](https://www.youtube.com/watch?v=dqI3hy602pQ&feature=youtu.be)
 ## Team Members
@@ -55,7 +55,25 @@ Gary Lara and Tyler Moore
     + Main menu music made by me
     + Custome end game song also made by me
 ### Tyler Moore
-
+* Added Main menu
+  + Implmented the UI
+  + Used free third party assets
+  + animations add to character
+  + Start and quit logic added
+* Level Bridging
+  + Created logic to transistion to next level
+  + transition from clicking to controls
+* Forest temple level
+  + Temple level created
+  + hazzards and models added
+  + 4 moving targets added
+* Added spike traps
+* projectile hazzards
+* Video documentation
+  + Flimed and directed both videos from my pc
+  + Set the pacing a motion of our show case
+* Uploading
+  + uploaded films to youtube 
 ## References
 For Enemy AI: [Video Reference](https://www.youtube.com/watch?v=DQqhJCoC4bQ&t=610s&ab_channel=RyanLale)  
 3D Models Animations: [Website](https://www.mixamo.com/#/?limit=48&page=1&query=idle&type=Motion%2CMotionPack)
