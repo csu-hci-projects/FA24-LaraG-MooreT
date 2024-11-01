@@ -1,13 +1,22 @@
 # FA24-LaraG-MooreT
 # HW1 
-### Yotube Videos
-[Showcase](link)
-[Longer Explinatiom](Link)
+### Youtube Videos
+[Showcase](https://youtu.be/E7RbcvUwXnI)
+[Longer Explinatiom](https://www.youtube.com/watch?v=dqI3hy602pQ&feature=youtu.be)
 ## Team Members
 Gary Lara and Tyler*** Moore 
 ## How Application Works
-a
 
+1. Download Game.zip from [One Drive](https://colostate-my.sharepoint.com/:u:/g/personal/garyl12_colostate_edu/EZnBEpeENgRGlKEGZPlbYQgBQFBd0BSN-rZjlVaOinndzQ?e=gPAABJ)
+2. Extract and run the executable HW1_Project.exe
+3. To begin game select Start to exit the game select Quit
+4. After selecting Start the first level begins
+5. Eliminate 4 of the moving targets/minions to move on to the next level
+6. In the next level eliminate 4 more targets then a boss will spawn
+7. Shoot the boss about 10 times
+8. The Game ends when you select retrurn to menu
+9. Then you can exit by selecting Quit
+10. If you die select restart level to play level again
 ## What Each Team Member Did
 ### Gary Lara
 * Added Minion Target
@@ -65,8 +74,6 @@ a
   + Set the pacing a motion of our show case
 * Uploading
   + uploaded films to youtube 
-
-
 ## References
 For Enemy AI: [Video Reference](https://www.youtube.com/watch?v=DQqhJCoC4bQ&t=610s&ab_channel=RyanLale)  
 3D Models Animations: [Website](https://www.mixamo.com/#/?limit=48&page=1&query=idle&type=Motion%2CMotionPack)
