@@ -1,7 +1,7 @@
 # FA24-LaraG-MooreT
 # HW1 
 ### Yotube Videos
-[Showcase](link)
+[Showcase](https://youtu.be/E7RbcvUwXnI)
 [Longer Explinatiom](https://www.youtube.com/watch?v=dqI3hy602pQ&feature=youtu.be)
 ## Team Members
 Gary Lara and Tyler Moore 
