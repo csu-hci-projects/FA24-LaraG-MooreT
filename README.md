@@ -7,7 +7,7 @@
 Gary Lara and Tyler Moore 
 ## How Application Works
 1. Download Game.zip from [One Drive](https://colostate-my.sharepoint.com/:u:/g/personal/garyl12_colostate_edu/EZnBEpeENgRGlKEGZPlbYQgBQFBd0BSN-rZjlVaOinndzQ?e=gPAABJ)
-2. Extract and run the executable
+2. Extract and run the executable HW1_Project.exe
 3. To begin game select Start to exit the game select Quit
 4. After selecting Start the first level begins
 5. Eliminate 4 of the moving targets/minions to move on to the next level
