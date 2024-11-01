@@ -4,8 +4,9 @@
 [Showcase](https://youtu.be/E7RbcvUwXnI)
 [Longer Explinatiom](https://www.youtube.com/watch?v=dqI3hy602pQ&feature=youtu.be)
 ## Team Members
-Gary Lara and Tyler Moore 
+Gary Lara and Tyler*** Moore 
 ## How Application Works
+
 1. Download Game.zip from [One Drive](https://colostate-my.sharepoint.com/:u:/g/personal/garyl12_colostate_edu/EZnBEpeENgRGlKEGZPlbYQgBQFBd0BSN-rZjlVaOinndzQ?e=gPAABJ)
 2. Extract and run the executable HW1_Project.exe
 3. To begin game select Start to exit the game select Quit
@@ -16,7 +17,6 @@ Gary Lara and Tyler Moore
 8. The Game ends when you select retrurn to menu
 9. Then you can exit by selecting Quit
 10. If you die select restart level to play level again
-
 ## What Each Team Member Did
 ### Gary Lara
 * Added Minion Target
@@ -77,6 +77,7 @@ Gary Lara and Tyler Moore
 ## References
 For Enemy AI: [Video Reference](https://www.youtube.com/watch?v=DQqhJCoC4bQ&t=610s&ab_channel=RyanLale)  
 3D Models Animations: [Website](https://www.mixamo.com/#/?limit=48&page=1&query=idle&type=Motion%2CMotionPack)
+3D Character Models https://www.mixamo.com/#/?page=1&type=Character
 
 ## Meetings
 1. 10/7 Face to face meeting where we introduced ourselves and exchanged contacts and Git IDs
