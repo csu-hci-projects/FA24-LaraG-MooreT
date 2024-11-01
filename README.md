@@ -2,11 +2,20 @@
 # HW1 
 ### Yotube Videos
 [Showcase](link)
-[Longer Explinatiom](Link)
+[Longer Explinatiom](https://www.youtube.com/watch?v=dqI3hy602pQ&feature=youtu.be)
 ## Team Members
 Gary Lara and Tyler Moore 
 ## How Application Works
-a
+1. Download Game.zip
+2. Extract and run the executable
+3. To begin game select Start to exit the game select Quit
+4. After selecting Start the first level begins
+5. Eliminate 4 of the moving targets/minions to move on to the next level
+6. In the next level eliminate 4 more targets then a boss will spawn
+7. Shoot the boss about 10 times
+8. The Game ends when you select retrurn to menu
+9. Then you can exit by selecting Quit
+10. If you die select restart level to play level again
 
 ## What Each Team Member Did
 ### Gary Lara
