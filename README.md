@@ -28,6 +28,7 @@ a
 * Spider decour
 * Added a falling spike
       + Spike falls on player when walking unde it
+* Barrels with fire do damage. Fire hazard
 * Created the third level
     + Has 3 hidden targets you have to destroy
     + Has ammo and health pick ups
