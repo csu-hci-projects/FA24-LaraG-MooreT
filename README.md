@@ -2,20 +2,11 @@
 # HW1 
 ### Yotube Videos
 [Showcase](link)
-[Longer Explinatiom](https://www.youtube.com/watch?v=dqI3hy602pQ&feature=youtu.be)
+[Longer Explinatiom](Link)
 ## Team Members
-Gary Lara and Tyler Moore 
+Gary Lara and Tyler*** Moore 
 ## How Application Works
-1. Download Game.zip
-2. Extract and run the executable
-3. To begin game select Start to exit the game select Quit
-4. After selecting Start the first level begins
-5. Eliminate 4 of the moving targets/minions to move on to the next level
-6. In the next level eliminate 4 more targets then a boss will spawn
-7. Shoot the boss about 10 times
-8. The Game ends when you select retrurn to menu
-9. Then you can exit by selecting Quit
-10. If you die select restart level to play level again
+a
 
 ## What Each Team Member Did
 ### Gary Lara
@@ -55,10 +46,31 @@ Gary Lara and Tyler Moore
     + Main menu music made by me
     + Custome end game song also made by me
 ### Tyler Moore
+* Added Main menu
+  + Implmented the UI
+  + Used free third party assets
+  + animations add to character
+  + Start and quit logic added
+* Level Bridging
+  + Created logic to transistion to next level
+  + transition from clicking to controls
+* Forest temple level
+  + Temple level created
+  + hazzards and models added
+  + 4 moving targets added
+* Added spike traps
+* projectile hazzards
+* Video documentation
+  + Flimed and directed both videos from my pc
+  + Set the pacing a motion of our show case
+* Uploading
+  + uploaded films to youtube 
+
 
 ## References
 For Enemy AI: [Video Reference](https://www.youtube.com/watch?v=DQqhJCoC4bQ&t=610s&ab_channel=RyanLale)  
 3D Models Animations: [Website](https://www.mixamo.com/#/?limit=48&page=1&query=idle&type=Motion%2CMotionPack)
+3D Character Models https://www.mixamo.com/#/?page=1&type=Character
 
 ## Meetings
 1. 10/7 Face to face meeting where we introduced ourselves and exchanged contacts and Git IDs
