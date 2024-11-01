@@ -2,7 +2,7 @@
 # HW1 
 ### Yotube Videos
 [Showcase](link)
-[Longer Explinatiom](Link)
+[Longer Explinatiom](https://www.youtube.com/watch?v=dqI3hy602pQ&feature=youtu.be)
 ## Team Members
 Gary Lara and Tyler Moore 
 ## How Application Works
