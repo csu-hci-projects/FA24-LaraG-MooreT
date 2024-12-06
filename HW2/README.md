@@ -13,7 +13,12 @@ Gary Lara and Tyler Moore
 
 ## What Each Team Member Did
 ### Gary Lara
-
+* Added 3 Targets
+  + Oval Shaped Target
+  + Target Shaped Target
+  + Moving Target
+* Added color changing to Targets as well as destroying after 2 hits
+* 
 ### Tyler Moore
 
 ## References
