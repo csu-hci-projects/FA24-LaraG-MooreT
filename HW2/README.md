@@ -37,6 +37,18 @@ Gary Lara and Tyler Moore
   + Arrow
   + Cone
 ### Tyler Moore
+* Modified Rifle
+  + ammo count 30
+  + does not fire when ammo counter is depleated
+  + reload delay
+  + reload sound
+* You win level
+  + Mesh added
+  + spark effects
+  + game actor added
+* you win string added
+* vr mode added
+   
 
 ## References
 For Cabin [Link To Cabin](https://www.fab.com/listings/8cfd125a-5588-47d8-a6dc-b348778db161)
