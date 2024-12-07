@@ -7,7 +7,7 @@
 Gary Lara and Tyler Moore 
 ## How Application Works
 
-1. Download Game.zip from [DropBox](https://www.dropbox.com/scl/fi/fm50r42fvyzff60y48ynw/Game.zip?rlkey=ztg3xgz4h5hvkbdz4xmpsxzso&st=wkbybuo1&dl=0) it'll say too big to load but you can still hit download and it will downmload
+1. Download Game.zip from [DropBox](https://www.dropbox.com/scl/fi/fm50r42fvyzff60y48ynw/Game.zip?rlkey=ztg3xgz4h5hvkbdz4xmpsxzso&st=wkbybuo1&dl=0) it'll say too big to load but you can still hit download and it will download
 2. Have a Meta Quest HDM and controllers running with Meta Quest Link App on Windows computer
 3. Extract and Run The ForLabs.exe
 4. Game Begins in a forest near a cabin.
