@@ -1,8 +1,8 @@
 # FA24-LaraG-MooreT
 # HW2
 ### Youtube Videos
-[Showcase](Link)
-[Longer Explination](Link)
+[Showcase](https://youtu.be/pKK9e5qrP1s?si=OGIpIfWrcmHJeMB9)
+[Longer Explination](https://youtu.be/Y3uF8raNAyQ?si=UJJEfzt2SY3qXS56)
 ## Team Members
 Gary Lara and Tyler Moore 
 ## How Application Works
