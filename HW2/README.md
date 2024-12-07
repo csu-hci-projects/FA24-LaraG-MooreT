@@ -8,17 +8,34 @@ Gary Lara and Tyler Moore
 ## How Application Works
 
 1. Download Game.zip from [One Drive](Link)
-2. Extract and run the executable HW2_Project.exe
-3. Have a Meta Quest HDM and controllers running with Meta Quest Link App on Windows computer
+2. Have a Meta Quest HDM and controllers running with Meta Quest Link App on Windows computer
+3. Extract and Run The ForLabs.exe
+4. Game Begins in a forest near a cabin.
+    + You have a small area in wich you can teleport
+    + Pick up a gun and shoot at least 4 targets to unlock teleport to area near the cabin door
+    + To reload gun press A button on right hand
+    + Grab the light switch to go to next level
+5. Next level may take a second to load but it will load a small box with spatial win text
+6. On the controler select the B on Right Hand button and the Select Quit Game to exit 
+
 
 ## What Each Team Member Did
 ### Gary Lara
-* Added 3 Targets
+* Added 3 Targets types
   + Oval Shaped Target
   + Target Shaped Target
   + Moving Target
 * Added color changing to Targets as well as destroying after 2 hits
-* 
+* Created Main Level
+  + Added No teleport areas
+  + Added event listener to count targets hit and unlock areas
+  + Added landscaping and foliage
+* Created Sound effects for guns and targets
+* Created Ending song
+* Created 3 grabbables
+  + Gum Gum Ball
+  + Arrow
+  + Cone
 ### Tyler Moore
 
 ## References
